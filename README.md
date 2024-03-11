@@ -6,7 +6,7 @@
 🎓 &nbsp;I'm currently studying new back programming languages.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, emerging programming languages, and Cloud Architecture.\
 ✉️ &nbsp;You can shoot me an email at javiermedmata@gamil.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://javiermedarde99.github.io) for more details about me.
+📄 &nbsp;Please have a look at my [CV](https://javiermedarde99.github.io) for more details about me.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -24,7 +24,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
