@@ -5,7 +5,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying new back programming languages.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, emerging programming languages, and Cloud Architecture.\
-✉️ &nbsp;You can shoot me an email at javiermedmata@gamil.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at javiermedmata@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [CV](https://javiermedarde99.github.io) for more details about me.
 
 ### 🛠 &nbsp;Tech Stack
@@ -25,6 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![MongoDb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=FFFFFF)&nbsp;
 ![Mysql](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&labelColor=4479A1&logoColor=FFF)&nbsp;
+![MariaDb](https://img.shields.io/badge/MariaDB-05122A?style=flat&logo=mariadb&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?logo=postgresql&logoColor=FFF)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
